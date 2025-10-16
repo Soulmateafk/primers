@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: #ff7d7d;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+
+.card {
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+
+footer {
+  background: #ffffff;
+  color: rgb(255, 144, 144);
+}
+
+.ooo {
+  max-height: 400px;
+}
